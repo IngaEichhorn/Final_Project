@@ -41,3 +41,8 @@ Modeling:
 - Minimum spanning trees (Clustering) of isolates based on MLST
 - Clusters associated with certain disease or resistance etc.
 
+
+Database can be expanded using Biosample ID for ncbi
+or Enterobase (for more *Escherichia* isoaltes)
+
+ 
