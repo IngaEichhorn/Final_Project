@@ -1,6 +1,5 @@
 # Final Project of the Ironhack Data Analytics Bootcamp
-![image](https://user-images.githubusercontent.com/90774339/145224140-2fb50217-af3c-4e40-a0d8-20f4ed2b9664.png)![image](https://user-images.githubusercontent.com/90774339/145224177-1c92bb53-451d-4727-91fd-0fb6ca79c763.png)
-
+![image](https://user-images.githubusercontent.com/90774339/145224140-2fb50217-af3c-4e40-a0d8-20f4ed2b9664.png)
 
 ## Describing and Clustering bacterial isolates
 ## DATA
